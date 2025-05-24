@@ -1,0 +1,12 @@
+.center-text{
+    text-align: center;
+}
+
+.center-box {
+  display: flex;
+  justify-content: center; /* Horizontal center */
+  align-items: center;     /* Vertikal center */
+  height: 200px;  /* Beri tinggi supaya vertikal center terlihat */
+  border: 1px solid #ccc;
+  text-align: center; /* Tambahan supaya teks paragraf rata tengah */
+}
